@@ -1,15 +1,14 @@
 {
-  "name": "desafio13",
+  "name": "drdesafio08",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "drdesafio8.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon drdesafio8.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.2",
     "socket.io": "^4.1.2"
