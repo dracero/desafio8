@@ -1,0 +1,22 @@
+[
+	{
+		"email": "dracero@teco.com.ar",
+		"date": "15/9/2021 10:46:17",
+		"message": "Prueba del primer mensaje"
+	},
+	{
+		"email": "dracero@teco.com.ar:",
+		"date": "15/9/2021 11:25:16",
+		"message": "Ver"
+	},
+	{
+		"email": "dracero@teco.com.ar:",
+		"date": "15/9/2021 11:25:21",
+		"message": "Anda"
+	},
+	{
+		"email": "dracero@teco.com.ar",
+		"date": "22/9/2021 09:39:53",
+		"message": "mensaje de test"
+	}
+]
